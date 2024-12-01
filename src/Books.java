@@ -13,45 +13,40 @@ public abstract class Books {
     private final String genre;
     private final String description;
     private final double rating;
-    private final String url;
-
+    private final int year;
     // create the constructor
 
-    public Books(String title, String author, String genre, double rating, String description, String url){
+    public Books(String title, String author, String genre, double rating, String description, int year){
 
         this.title = title;
         this.author = author;
         this.genre = genre;
         this.description = description;
         this.rating = rating;
-        this.url = url;
+        this.year = year;
     }
 
     // create getters to access data for the private instance variables
 
     public String getTitle(){
-        return title;
+        return this.title;
     }
 
     public String getAuthor(){
-        return author;
+        return this.author;
     }
 
     public String getGenre(){
-        return genre;
+        return this.genre;
     }
 
-    public String getDescription(){
-        return description;
-    }
+    public String getDescription(){ return this.description; }
 
     public double getRating(){
-        return  rating;
+        return  this.rating;
     }
 
-    public String getUrl(){
-        return  url;
-    }
+    public int getYear() { return this.year; }
 
     // Overriding the toString() from the Object class to make a readable format when printing logs + debugging
 
@@ -60,7 +55,8 @@ public abstract class Books {
         return ("Title: " + title + '\n' +
                 "Author: "+ author + '\n' +
                 "Genre: " + genre + '\n' +
-                "Description: "+  description + '\n');
+                "Description: "+  description + '\n' +
+                "Year: " + year + '\n');
     }
 
     // to open the url to the book on click

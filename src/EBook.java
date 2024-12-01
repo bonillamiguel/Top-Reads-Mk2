@@ -1,9 +1,13 @@
 // to add the readBook() feature
 
 public class EBook extends Books {
-
-    public EBook(String title, String author, String genre, double rating, String description, String url){
-        super(title, author, genre, rating, description, url);
+    private final String url;
+    public EBook(String title, String author, String genre, double rating, String description, int year, String url){
+        super(title, author, genre, rating, description, year);
+        this.url = url;
+    }
+    public String getUrl(){
+        return  url;
     }
 
 

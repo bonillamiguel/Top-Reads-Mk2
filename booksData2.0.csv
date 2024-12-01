@@ -1,0 +1,131 @@
+Title,Author,Genre,Rating,Description,URL,Year
+Pride and Prejudice,Jane Austen,Classic,4.8,A romantic novel that critiques the British landed gentry at the end of the 18th century.,https://www.gutenberg.org/ebooks/1342,1927
+Moby-Dick,Herman Melville,Classic,4.5,"The narrative of Captain Ahab's obsessive quest to kill the white whale, Moby Dick.",https://www.gutenberg.org/ebooks/2701,2006
+Great Expectations,Charles Dickens,Classic,4.6,The story of the orphan Pip and his growth and personal development.,https://www.gutenberg.org/ebooks/1400,1983
+War and Peace,Leo Tolstoy,Classic,4.7,A historical novel that chronicles the French invasion of Russia.,https://www.gutenberg.org/ebooks/2600,1967
+Jane Eyre,Charlotte Brontë,Classic,4.8,"The experiences of the orphaned Jane Eyre, including her growth to adulthood.",https://www.gutenberg.org/ebooks/1260,1990
+The Great Gatsby,F. Scott Fitzgerald,Classic,4.4,A critique of the American Dream through the story of Jay Gatsby.,https://www.gutenberg.org/ebooks/64317,1935
+Crime and Punishment,Fyodor Dostoevsky,Classic,4.7,The mental anguish and moral dilemmas of an impoverished ex-student.,https://www.gutenberg.org/ebooks/2554,1924
+Wuthering Heights,Emily Brontë,Classic,4.5,A tale of passion and revenge on the Yorkshire moors.,https://www.gutenberg.org/ebooks/768,1913
+The Odyssey,Homer,Classic,4.6,The epic journey of Odysseus returning home after the Trojan War.,https://www.gutenberg.org/ebooks/1727,1948
+The Scarlet Letter,Nathaniel Hawthorne,Classic,4.4,"A story of sin, guilt, and redemption in Puritan Massachusetts.",https://www.gutenberg.org/ebooks/25344,1923
+The Hobbit,J.R.R. Tolkien,Fantasy,4.8,Bilbo Baggins' unexpected journey to win a share of treasure guarded by a dragon.,https://www.gutenberg.org/ebooks/65456,2013
+Alice's Adventures in Wonderland,Lewis Carroll,Fantasy,4.7,Alice's adventures after falling through a rabbit hole into a fantasy world.,https://www.gutenberg.org/ebooks/11,1925
+The Wonderful Wizard of Oz,L. Frank Baum,Fantasy,4.6,Dorothy's journey in the magical land of Oz.,https://www.gutenberg.org/ebooks/55,2003
+Peter Pan,J.M. Barrie,Fantasy,4.5,The adventures of Peter Pan and the Darling children in Neverland.,https://www.gutenberg.org/ebooks/16,1933
+A Princess of Mars,Edgar Rice Burroughs,Fantasy,4.4,John Carter's adventures on Mars among alien races.,https://www.gutenberg.org/ebooks/62,1904
+The Time Machine,H.G. Wells,Fantasy,4.5,A scientist's journey into the distant future using his time machine.,https://www.gutenberg.org/ebooks/35,1907
+The Chronicles of Narnia,C.S. Lewis,Fantasy,4.7,The adventures of children in the magical land of Narnia.,https://www.gutenberg.org/ebooks/651,2016
+The King of Elfland's Daughter,Lord Dunsany,Fantasy,4.4,A tale of the marriage between a mortal prince and an elf princess.,https://www.gutenberg.org/ebooks/708,1946
+Phantastes,George MacDonald,Fantasy,4.3,A young man's journey through a dreamlike fairyland.,https://www.gutenberg.org/ebooks/325,1948
+The Princess and the Goblin,George MacDonald,Fantasy,4.5,Princess Irene's adventures with goblins and her friend Curdie.,https://www.gutenberg.org/ebooks/708,1952
+Pride and Prejudice,Jane Austen,Romance,4.8,A romantic novel that critiques the British landed gentry at the end of the 18th century.,https://www.gutenberg.org/ebooks/1342,1919
+Jane Eyre,Charlotte Brontë,Romance,4.8,"The experiences of the orphaned Jane Eyre, including her growth to adulthood.",https://www.gutenberg.org/ebooks/1260,1975
+Wuthering Heights,Emily Brontë,Romance,4.5,A tale of passion and revenge on the Yorkshire moors.,https://www.gutenberg.org/ebooks/768,2000
+Emma,Jane Austen,Romance,4.6,The story of Emma Woodhouse's misguided matchmaking efforts.,https://www.gutenberg.org/ebooks/158,1920
+Sense and Sensibility,Jane Austen,Romance,4.7,The Dashwood sisters navigate love and heartbreak.,https://www.gutenberg.org/ebooks/161,1952
+Persuasion,Jane Austen,Romance,4.6,Anne Elliot's second chance at love with Captain Wentworth.,https://www.gutenberg.org/ebooks/105,1944
+North and South,Elizabeth Gaskell,Romance,4.5,Margaret Hale's experiences in the industrial town of Milton.,https://www.gutenberg.org/ebooks/4276,1990
+The Age of Innocence,Edith Wharton,Romance,4.4,A story of love and societal expectations in 1870s New York.,https://www.gutenberg.org/ebooks/541,1929
+Anna Karenina,Leo Tolstoy,Romance,4.7,The tragic love affair between Anna Karenina and Count Vronsky.,https://www.gutenberg.org/ebooks/1399,1946
+Far from the Madding Crowd,Thomas Hardy,Romance,4.5,Bathsheba Everdene's relationships with three different men.,https://www.gutenberg.org/ebooks/107,1975
+Book 1,Author 1,Fiction,3.4,This is the description of Book 1,https://example.com/book1,1988
+Book 2,Author 2,Fantasy,4.2,This is the description of Book 2,https://example.com/book2,2004
+Book 3,Author 3,Fantasy,3.9,This is the description of Book 3,https://example.com/book3,1981
+Book 4,Author 4,Non-Fiction,3.7,This is the description of Book 4,https://example.com/book4,1914
+Book 5,Author 5,Non-Fiction,4.4,This is the description of Book 5,https://example.com/book5,1906
+Book 6,Author 6,Fantasy,4.2,This is the description of Book 6,https://example.com/book6,1955
+Book 7,Author 7,Mystery,3.5,This is the description of Book 7,https://example.com/book7,2009
+Book 8,Author 8,Mystery,4.9,This is the description of Book 8,https://example.com/book8,1990
+Book 9,Author 9,Fantasy,3.4,This is the description of Book 9,https://example.com/book9,1981
+Book 10,Author 10,Classic,3.6,This is the description of Book 10,https://example.com/book10,1922
+Book 11,Author 11,Fantasy,3.6,This is the description of Book 11,https://example.com/book11,1911
+Book 12,Author 12,Classic,4.7,This is the description of Book 12,https://example.com/book12,1984
+Book 13,Author 13,Non-Fiction,3.8,This is the description of Book 13,https://example.com/book13,1994
+Book 14,Author 14,Non-Fiction,3.5,This is the description of Book 14,https://example.com/book14,2009
+Book 15,Author 15,Classic,3.6,This is the description of Book 15,https://example.com/book15,1917
+Book 16,Author 16,Non-Fiction,3.8,This is the description of Book 16,https://example.com/book16,1972
+Book 17,Author 17,Classic,3.2,This is the description of Book 17,https://example.com/book17,1910
+Book 18,Author 18,Fantasy,4.5,This is the description of Book 18,https://example.com/book18,2011
+Book 19,Author 19,Mystery,3.0,This is the description of Book 19,https://example.com/book19,1926
+Book 20,Author 20,Mystery,4.7,This is the description of Book 20,https://example.com/book20,1985
+Book 21,Author 21,Mystery,3.9,This is the description of Book 21,https://example.com/book21,1954
+Book 22,Author 22,Fiction,4.2,This is the description of Book 22,https://example.com/book22,1906
+Book 23,Author 23,Fiction,3.4,This is the description of Book 23,https://example.com/book23,1904
+Book 24,Author 24,Fiction,4.8,This is the description of Book 24,https://example.com/book24,1976
+Book 25,Author 25,Classic,4.4,This is the description of Book 25,https://example.com/book25,2016
+Book 26,Author 26,Mystery,4.8,This is the description of Book 26,https://example.com/book26,1951
+Book 27,Author 27,Fiction,4.0,This is the description of Book 27,https://example.com/book27,1949
+Book 28,Author 28,Non-Fiction,4.8,This is the description of Book 28,https://example.com/book28,1978
+Book 29,Author 29,Non-Fiction,4.9,This is the description of Book 29,https://example.com/book29,1988
+Book 30,Author 30,Mystery,3.8,This is the description of Book 30,https://example.com/book30,1998
+Book 31,Author 31,Fantasy,5.0,This is the description of Book 31,https://example.com/book31,1991
+Book 32,Author 32,Classic,4.0,This is the description of Book 32,https://example.com/book32,1911
+Book 33,Author 33,Fiction,3.7,This is the description of Book 33,https://example.com/book33,1918
+Book 34,Author 34,Non-Fiction,3.8,This is the description of Book 34,https://example.com/book34,1983
+Book 35,Author 35,Non-Fiction,3.5,This is the description of Book 35,https://example.com/book35,1960
+Book 36,Author 36,Fiction,3.6,This is the description of Book 36,https://example.com/book36,1983
+Book 37,Author 37,Non-Fiction,3.4,This is the description of Book 37,https://example.com/book37,1958
+Book 38,Author 38,Non-Fiction,4.2,This is the description of Book 38,https://example.com/book38,1904
+Book 39,Author 39,Fiction,3.4,This is the description of Book 39,https://example.com/book39,2010
+Book 40,Author 40,Fantasy,4.1,This is the description of Book 40,https://example.com/book40,1949
+Book 41,Author 41,Classic,4.0,This is the description of Book 41,https://example.com/book41,2021
+Book 42,Author 42,Fantasy,4.1,This is the description of Book 42,https://example.com/book42,1997
+Book 43,Author 43,Non-Fiction,3.3,This is the description of Book 43,https://example.com/book43,1945
+Book 44,Author 44,Fiction,4.2,This is the description of Book 44,https://example.com/book44,2005
+Book 45,Author 45,Mystery,5.0,This is the description of Book 45,https://example.com/book45,2018
+Book 46,Author 46,Fiction,3.2,This is the description of Book 46,https://example.com/book46,1941
+Book 47,Author 47,Classic,3.7,This is the description of Book 47,https://example.com/book47,2007
+Book 48,Author 48,Fiction,4.4,This is the description of Book 48,https://example.com/book48,2020
+Book 49,Author 49,Fantasy,5.0,This is the description of Book 49,https://example.com/book49,1971
+Book 50,Author 50,Fantasy,3.1,This is the description of Book 50,https://example.com/book50,1927
+Book 51,Author 51,Non-Fiction,4.5,This is the description of Book 51,https://example.com/book51,2011
+Book 52,Author 52,Fantasy,4.3,This is the description of Book 52,https://example.com/book52,1980
+Book 53,Author 53,Classic,3.7,This is the description of Book 53,https://example.com/book53,1981
+Book 54,Author 54,Non-Fiction,4.6,This is the description of Book 54,https://example.com/book54,1969
+Book 55,Author 55,Fantasy,5.0,This is the description of Book 55,https://example.com/book55,1915
+Book 56,Author 56,Non-Fiction,3.3,This is the description of Book 56,https://example.com/book56,1915
+Book 57,Author 57,Fantasy,4.8,This is the description of Book 57,https://example.com/book57,2010
+Book 58,Author 58,Fantasy,3.5,This is the description of Book 58,https://example.com/book58,1923
+Book 59,Author 59,Fiction,4.8,This is the description of Book 59,https://example.com/book59,1933
+Book 60,Author 60,Fantasy,5.0,This is the description of Book 60,https://example.com/book60,1973
+Book 61,Author 61,Mystery,4.7,This is the description of Book 61,https://example.com/book61,1932
+Book 62,Author 62,Fiction,4.5,This is the description of Book 62,https://example.com/book62,1982
+Book 63,Author 63,Mystery,4.1,This is the description of Book 63,https://example.com/book63,1916
+Book 64,Author 64,Classic,3.2,This is the description of Book 64,https://example.com/book64,1983
+Book 65,Author 65,Mystery,3.4,This is the description of Book 65,https://example.com/book65,1946
+Book 66,Author 66,Fantasy,3.0,This is the description of Book 66,https://example.com/book66,1931
+Book 67,Author 67,Classic,4.0,This is the description of Book 67,https://example.com/book67,1983
+Book 68,Author 68,Fantasy,4.9,This is the description of Book 68,https://example.com/book68,2000
+Book 69,Author 69,Classic,4.0,This is the description of Book 69,https://example.com/book69,1935
+Book 70,Author 70,Non-Fiction,4.2,This is the description of Book 70,https://example.com/book70,1957
+Book 71,Author 71,Non-Fiction,4.2,This is the description of Book 71,https://example.com/book71,1909
+Book 72,Author 72,Mystery,3.9,This is the description of Book 72,https://example.com/book72,1974
+Book 73,Author 73,Non-Fiction,3.9,This is the description of Book 73,https://example.com/book73,1914
+Book 74,Author 74,Non-Fiction,3.6,This is the description of Book 74,https://example.com/book74,1951
+Book 75,Author 75,Fiction,3.6,This is the description of Book 75,https://example.com/book75,2023
+Book 76,Author 76,Fiction,4.2,This is the description of Book 76,https://example.com/book76,2013
+Book 77,Author 77,Fantasy,3.8,This is the description of Book 77,https://example.com/book77,1964
+Book 78,Author 78,Non-Fiction,4.9,This is the description of Book 78,https://example.com/book78,2010
+Book 79,Author 79,Fiction,3.8,This is the description of Book 79,https://example.com/book79,1945
+Book 80,Author 80,Mystery,4.0,This is the description of Book 80,https://example.com/book80,1999
+Book 81,Author 81,Classic,4.1,This is the description of Book 81,https://example.com/book81,1935
+Book 82,Author 82,Classic,3.2,This is the description of Book 82,https://example.com/book82,1975
+Book 83,Author 83,Mystery,4.5,This is the description of Book 83,https://example.com/book83,1935
+Book 84,Author 84,Non-Fiction,3.1,This is the description of Book 84,https://example.com/book84,1961
+Book 85,Author 85,Fiction,4.9,This is the description of Book 85,https://example.com/book85,2004
+Book 86,Author 86,Classic,3.3,This is the description of Book 86,https://example.com/book86,1961
+Book 87,Author 87,Classic,4.3,This is the description of Book 87,https://example.com/book87,1968
+Book 88,Author 88,Fantasy,4.2,This is the description of Book 88,https://example.com/book88,1963
+Book 89,Author 89,Fiction,4.4,This is the description of Book 89,https://example.com/book89,1994
+Book 90,Author 90,Classic,4.2,This is the description of Book 90,https://example.com/book90,1931
+Book 91,Author 91,Fiction,3.9,This is the description of Book 91,https://example.com/book91,1975
+Book 92,Author 92,Fantasy,3.6,This is the description of Book 92,https://example.com/book92,1912
+Book 93,Author 93,Non-Fiction,4.3,This is the description of Book 93,https://example.com/book93,1992
+Book 94,Author 94,Classic,4.8,This is the description of Book 94,https://example.com/book94,1939
+Book 95,Author 95,Non-Fiction,3.6,This is the description of Book 95,https://example.com/book95,2020
+Book 96,Author 96,Mystery,5.0,This is the description of Book 96,https://example.com/book96,1937
+Book 97,Author 97,Mystery,3.4,This is the description of Book 97,https://example.com/book97,1905
+Book 98,Author 98,Non-Fiction,3.2,This is the description of Book 98,https://example.com/book98,1969
+Book 99,Author 99,Non-Fiction,4.3,This is the description of Book 99,https://example.com/book99,2004
+Book 100,Author 100,Fantasy,3.7,This is the description of Book 100,https://example.com/book100,2009

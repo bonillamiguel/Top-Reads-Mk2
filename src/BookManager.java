@@ -4,7 +4,9 @@
 import java.awt.print.Book;
 import java.io.*;
 import java.util.ArrayList;
-
+import java.util.stream.Collectors;
+import com.opencsv.CSVReader;
+import com.opencsv.exceptions.CsvValidationException;
 
 public class BookManager implements Features{
 
@@ -18,21 +20,23 @@ public class BookManager implements Features{
     // create a public method to read for CSV
 
     public void loadBooks(String filePath){
-        try(BufferedReader read = new BufferedReader(new FileReader(filePath))){
-            String line;
-            read.readLine(); // skip the headers in the CSV like title, author etc...
-            while((line = read.readLine()) != null){
-                String[] data = line.split(",");  // split each data into array of strings based on ','
-                String title = data[0];
-                String author = data[1];
-                String genre = data[2];
-                double rating = Double.parseDouble(data[3]);
-                String description = data[4];
-                String url = data[5]; // for the new method for web reader
-                books.add(new EBook(title, author, genre, rating, description, url));
+        try(CSVReader read = new CSVReader(new FileReader(filePath))){
+            String[] data;
+            read.readNext(); // skip the headers in the CSV like title, author etc...
+            while((data = read.readNext()) != null){
+                String title = data[0].trim();
+                String author = data[1].trim();
+                String genre = data[2].trim();
+                double rating = Double.parseDouble(data[3].trim());
+                String description = data[4].trim();
+                String url = data[5].trim(); // for the new method for web reader
+                int year = Integer.parseInt(data[6].trim()); //year of the book
+                books.add(new EBook(title, author, genre, rating, description, year, url));
             }
         }catch (IOException e){
             System.out.println("Error Occurred when reading the files: " + e.getMessage());
+        } catch (CsvValidationException e) {
+            throw new RuntimeException(e);
         }
     }
 
@@ -47,13 +51,9 @@ public class BookManager implements Features{
     @Override
     public ArrayList<Books> filterBooksByGenre(String genre) {
 
-        ArrayList<Books> filteredBooks = new ArrayList<>();
-        for (Books book : books) {
-            if (book.getGenre().equalsIgnoreCase(genre)) {
-                filteredBooks.add(book);
-            }
-        }
-        return filteredBooks;
+        return (ArrayList<Books>) books.stream()
+                .filter(book -> book.getGenre().equalsIgnoreCase(genre))
+                .collect(Collectors.toList());
     }
 
 
@@ -78,4 +78,18 @@ public class BookManager implements Features{
         return new ArrayList<>(sortedBooks.subList(0, Math.min(10, sortedBooks.size())));
     }
 
+    @Override
+    public ArrayList<Books> recommendBooks(String genre, int year, double minRating) {
+        return (ArrayList<Books>) books.stream()
+                .filter(book -> book.getGenre().equalsIgnoreCase(genre))
+                .filter(book -> book.getYear() == year)
+                .filter(book -> book.getRating() >= minRating)
+                .collect(Collectors.toList());
+    }
+    public ArrayList<Books> searchBooks(String searchterm) {
+        return (ArrayList<Books>) books.stream()
+                .filter(book -> book.getTitle().toLowerCase().contains(searchterm.toLowerCase()) ||
+                        book.getAuthor().toLowerCase().contains(searchterm.toLowerCase()))
+                .collect(Collectors.toList());
+    }
 }

@@ -1,0 +1,131 @@
+Title,Author,Genre,Rating,Description,URL,Year
+Pride and Prejudice,Jane Austen,Classic,4.8,A romantic novel that critiques the British landed gentry at the end of the 18th century.,https://www.gutenberg.org/ebooks/1342,1927
+Moby-Dick,Herman Melville,Classic,4.5,"The narrative of Captain Ahab's obsessive quest to kill the white whale, Moby Dick.",https://www.gutenberg.org/ebooks/2701,2006
+Great Expectations,Charles Dickens,Classic,4.6,The story of the orphan Pip and his growth and personal development.,https://www.gutenberg.org/ebooks/1400,1983
+War and Peace,Leo Tolstoy,Classic,4.7,A historical novel that chronicles the French invasion of Russia.,https://www.gutenberg.org/ebooks/2600,1967
+Jane Eyre,Charlotte Brontë,Classic,4.8,"The experiences of the orphaned Jane Eyre, including her growth to adulthood.",https://www.gutenberg.org/ebooks/1260,1990
+The Great Gatsby,F. Scott Fitzgerald,Classic,4.4,A critique of the American Dream through the story of Jay Gatsby.,https://www.gutenberg.org/ebooks/64317,1935
+Crime and Punishment,Fyodor Dostoevsky,Classic,4.7,The mental anguish and moral dilemmas of an impoverished ex-student.,https://www.gutenberg.org/ebooks/2554,1924
+Wuthering Heights,Emily Brontë,Classic,4.5,A tale of passion and revenge on the Yorkshire moors.,https://www.gutenberg.org/ebooks/768,1913
+The Odyssey,Homer,Classic,4.6,The epic journey of Odysseus returning home after the Trojan War.,https://www.gutenberg.org/ebooks/1727,1948
+The Scarlet Letter,Nathaniel Hawthorne,Classic,4.4,"A story of sin, guilt, and redemption in Puritan Massachusetts.",https://www.gutenberg.org/ebooks/25344,1923
+The Hobbit,J.R.R. Tolkien,Fantasy,4.8,Bilbo Baggins' unexpected journey to win a share of treasure guarded by a dragon.,https://www.gutenberg.org/ebooks/65456,2013
+Alice's Adventures in Wonderland,Lewis Carroll,Fantasy,4.7,Alice's adventures after falling through a rabbit hole into a fantasy world.,https://www.gutenberg.org/ebooks/11,1925
+The Wonderful Wizard of Oz,L. Frank Baum,Fantasy,4.6,Dorothy's journey in the magical land of Oz.,https://www.gutenberg.org/ebooks/55,2003
+Peter Pan,J.M. Barrie,Fantasy,4.5,The adventures of Peter Pan and the Darling children in Neverland.,https://www.gutenberg.org/ebooks/16,1933
+A Princess of Mars,Edgar Rice Burroughs,Fantasy,4.4,John Carter's adventures on Mars among alien races.,https://www.gutenberg.org/ebooks/62,1904
+The Time Machine,H.G. Wells,Fantasy,4.5,A scientist's journey into the distant future using his time machine.,https://www.gutenberg.org/ebooks/35,1907
+The Chronicles of Narnia,C.S. Lewis,Fantasy,4.7,The adventures of children in the magical land of Narnia.,https://www.gutenberg.org/ebooks/651,2016
+The King of Elfland's Daughter,Lord Dunsany,Fantasy,4.4,A tale of the marriage between a mortal prince and an elf princess.,https://www.gutenberg.org/ebooks/708,1946
+Phantastes,George MacDonald,Fantasy,4.3,A young man's journey through a dreamlike fairyland.,https://www.gutenberg.org/ebooks/325,1948
+The Princess and the Goblin,George MacDonald,Fantasy,4.5,Princess Irene's adventures with goblins and her friend Curdie.,https://www.gutenberg.org/ebooks/708,1952
+Pride and Prejudice,Jane Austen,Romance,4.8,A romantic novel that critiques the British landed gentry at the end of the 18th century.,https://www.gutenberg.org/ebooks/1342,1919
+Jane Eyre,Charlotte Brontë,Romance,4.8,"The experiences of the orphaned Jane Eyre, including her growth to adulthood.",https://www.gutenberg.org/ebooks/1260,1975
+Wuthering Heights,Emily Brontë,Romance,4.5,A tale of passion and revenge on the Yorkshire moors.,https://www.gutenberg.org/ebooks/768,2000
+Emma,Jane Austen,Romance,4.6,The story of Emma Woodhouse's misguided matchmaking efforts.,https://www.gutenberg.org/ebooks/158,1920
+Sense and Sensibility,Jane Austen,Romance,4.7,The Dashwood sisters navigate love and heartbreak.,https://www.gutenberg.org/ebooks/161,1952
+Persuasion,Jane Austen,Romance,4.6,Anne Elliot's second chance at love with Captain Wentworth.,https://www.gutenberg.org/ebooks/105,1944
+North and South,Elizabeth Gaskell,Romance,4.5,Margaret Hale's experiences in the industrial town of Milton.,https://www.gutenberg.org/ebooks/4276,1990
+The Age of Innocence,Edith Wharton,Romance,4.4,A story of love and societal expectations in 1870s New York.,https://www.gutenberg.org/ebooks/541,1929
+Anna Karenina,Leo Tolstoy,Romance,4.7,The tragic love affair between Anna Karenina and Count Vronsky.,https://www.gutenberg.org/ebooks/1399,1946
+Far from the Madding Crowd,Thomas Hardy,Romance,4.5,Bathsheba Everdene's relationships with three different men.,https://www.gutenberg.org/ebooks/107,1975
+To Kill a Mockingbird,Harper Lee,Classic,4.9,A classic novel with timeless themes.,https://example.com/book101,1956
+1984,George Orwell,Dystopian,4.8,A classic novel with timeless themes.,https://example.com/book102,1991
+The Great Gatsby,F. Scott Fitzgerald,Classic,4.7,A classic novel with timeless themes.,https://example.com/book103,1943
+The Catcher in the Rye,J.D. Salinger,Classic,4.6,A classic novel with timeless themes.,https://example.com/book104,1930
+The Hobbit,J.R.R. Tolkien,Fantasy,4.5,A classic novel with timeless themes.,https://example.com/book105,1910
+Fahrenheit 451,Ray Bradbury,Classic,4.9,A classic novel with timeless themes.,https://example.com/book106,1960
+Animal Farm,George Orwell,Dystopian,4.8,A classic novel with timeless themes.,https://example.com/book107,1931
+Lord of the Flies,William Golding,Classic,4.7,A classic novel with timeless themes.,https://example.com/book108,2013
+Pride and Prejudice,Jane Austen,Classic,4.6,A classic novel with timeless themes.,https://example.com/book109,2013
+Jane Eyre,Charlotte Brontë,Fantasy,4.5,A classic novel with timeless themes.,https://example.com/book110,1941
+Brave New World,Aldous Huxley,Classic,4.9,A classic novel with timeless themes.,https://example.com/book111,2007
+Wuthering Heights,Emily Brontë,Dystopian,4.8,A classic novel with timeless themes.,https://example.com/book112,1987
+Moby-Dick,Herman Melville,Classic,4.7,A classic novel with timeless themes.,https://example.com/book113,2020
+Crime and Punishment,Fyodor Dostoevsky,Classic,4.6,A classic novel with timeless themes.,https://example.com/book114,1995
+War and Peace,Leo Tolstoy,Fantasy,4.5,A classic novel with timeless themes.,https://example.com/book115,1920
+The Odyssey,Homer,Classic,4.9,A classic novel with timeless themes.,https://example.com/book116,1934
+The Iliad,Homer,Dystopian,4.8,A classic novel with timeless themes.,https://example.com/book117,1924
+The Divine Comedy,Dante Alighieri,Classic,4.7,A classic novel with timeless themes.,https://example.com/book118,1908
+Les Misérables,Victor Hugo,Classic,4.6,A classic novel with timeless themes.,https://example.com/book119,1905
+Great Expectations,Charles Dickens,Fantasy,4.5,A classic novel with timeless themes.,https://example.com/book120,1969
+Frankenstein,Mary Shelley,Classic,4.9,A classic novel with timeless themes.,https://example.com/book121,2009
+Dracula,Bram Stoker,Dystopian,4.8,A classic novel with timeless themes.,https://example.com/book122,1939
+The Picture of Dorian Gray,Oscar Wilde,Classic,4.7,A classic novel with timeless themes.,https://example.com/book123,2014
+The Scarlet Letter,Nathaniel Hawthorne,Classic,4.6,A classic novel with timeless themes.,https://example.com/book124,1956
+Emma,Jane Austen,Fantasy,4.5,A classic novel with timeless themes.,https://example.com/book125,1947
+Sense and Sensibility,Jane Austen,Classic,4.9,A classic novel with timeless themes.,https://example.com/book126,1965
+Northanger Abbey,Jane Austen,Dystopian,4.8,A classic novel with timeless themes.,https://example.com/book127,1948
+Persuasion,Jane Austen,Classic,4.7,A classic novel with timeless themes.,https://example.com/book128,1993
+Middlemarch,George Eliot,Classic,4.6,A classic novel with timeless themes.,https://example.com/book129,1921
+Anna Karenina,Leo Tolstoy,Fantasy,4.5,A classic novel with timeless themes.,https://example.com/book130,1901
+The Brothers Karamazov,Fyodor Dostoevsky,Classic,4.9,A classic novel with timeless themes.,https://example.com/book131,1989
+David Copperfield,Charles Dickens,Dystopian,4.8,A classic novel with timeless themes.,https://example.com/book132,1949
+Bleak House,Charles Dickens,Classic,4.7,A classic novel with timeless themes.,https://example.com/book133,1905
+The Grapes of Wrath,John Steinbeck,Classic,4.6,A classic novel with timeless themes.,https://example.com/book134,1912
+East of Eden,John Steinbeck,Fantasy,4.5,A classic novel with timeless themes.,https://example.com/book135,2023
+Of Mice and Men,John Steinbeck,Classic,4.9,A classic novel with timeless themes.,https://example.com/book136,1930
+A Tale of Two Cities,Charles Dickens,Dystopian,4.8,A classic novel with timeless themes.,https://example.com/book137,1961
+Gone with the Wind,Margaret Mitchell,Classic,4.7,A classic novel with timeless themes.,https://example.com/book138,2012
+The Lord of the Rings,J.R.R. Tolkien,Classic,4.6,A classic novel with timeless themes.,https://example.com/book139,1901
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,4.5,A classic novel with timeless themes.,https://example.com/book140,1947
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Classic,4.9,A classic novel with timeless themes.,https://example.com/book141,1904
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Dystopian,4.8,A classic novel with timeless themes.,https://example.com/book142,1990
+Harry Potter and the Goblet of Fire,J.K. Rowling,Classic,4.7,A classic novel with timeless themes.,https://example.com/book143,1954
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Classic,4.6,A classic novel with timeless themes.,https://example.com/book144,1949
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Fantasy,4.5,A classic novel with timeless themes.,https://example.com/book145,1912
+Harry Potter and the Deathly Hallows,J.K. Rowling,Classic,4.9,A classic novel with timeless themes.,https://example.com/book146,1988
+The Hunger Games,Suzanne Collins,Dystopian,4.8,A classic novel with timeless themes.,https://example.com/book147,2007
+Catching Fire,Suzanne Collins,Classic,4.7,A classic novel with timeless themes.,https://example.com/book148,1976
+Mockingjay,Suzanne Collins,Classic,4.6,A classic novel with timeless themes.,https://example.com/book149,2009
+Divergent,Veronica Roth,Fantasy,4.5,A classic novel with timeless themes.,https://example.com/book150,1910
+Insurgent,Veronica Roth,Classic,4.9,A classic novel with timeless themes.,https://example.com/book151,2010
+Allegiant,Veronica Roth,Dystopian,4.8,A classic novel with timeless themes.,https://example.com/book152,1975
+The Maze Runner,James Dashner,Classic,4.7,A classic novel with timeless themes.,https://example.com/book153,1911
+The Scorch Trials,James Dashner,Classic,4.6,A classic novel with timeless themes.,https://example.com/book154,1950
+The Death Cure,James Dashner,Fantasy,4.5,A classic novel with timeless themes.,https://example.com/book155,2011
+The Giver,Lois Lowry,Classic,4.9,A classic novel with timeless themes.,https://example.com/book156,1914
+Gathering Blue,Lois Lowry,Dystopian,4.8,A classic novel with timeless themes.,https://example.com/book157,1995
+Messenger,Lois Lowry,Classic,4.7,A classic novel with timeless themes.,https://example.com/book158,1955
+Son,Lois Lowry,Classic,4.6,A classic novel with timeless themes.,https://example.com/book159,1982
+Percy Jackson and the Lightning Thief,Rick Riordan,Fantasy,4.5,A classic novel with timeless themes.,https://example.com/book160,1934
+Percy Jackson and the Sea of Monsters,Rick Riordan,Classic,4.9,A classic novel with timeless themes.,https://example.com/book161,1954
+Percy Jackson and the Titan's Curse,Rick Riordan,Dystopian,4.8,A classic novel with timeless themes.,https://example.com/book162,1948
+Percy Jackson and the Battle of the Labyrinth,Rick Riordan,Classic,4.7,A classic novel with timeless themes.,https://example.com/book163,2020
+Percy Jackson and the Last Olympian,Rick Riordan,Classic,4.6,A classic novel with timeless themes.,https://example.com/book164,1943
+The Golden Compass,Philip Pullman,Fantasy,4.5,A classic novel with timeless themes.,https://example.com/book165,2010
+The Subtle Knife,Philip Pullman,Classic,4.9,A classic novel with timeless themes.,https://example.com/book166,1911
+The Amber Spyglass,Philip Pullman,Dystopian,4.8,A classic novel with timeless themes.,https://example.com/book167,1938
+A Game of Thrones,George R.R. Martin,Classic,4.7,A classic novel with timeless themes.,https://example.com/book168,1929
+A Clash of Kings,George R.R. Martin,Classic,4.6,A classic novel with timeless themes.,https://example.com/book169,1959
+A Storm of Swords,George R.R. Martin,Fantasy,4.5,A classic novel with timeless themes.,https://example.com/book170,1982
+A Feast for Crows,George R.R. Martin,Classic,4.9,A classic novel with timeless themes.,https://example.com/book171,1905
+A Dance with Dragons,George R.R. Martin,Dystopian,4.8,A classic novel with timeless themes.,https://example.com/book172,1982
+The Road,Cormac McCarthy,Classic,4.7,A classic novel with timeless themes.,https://example.com/book173,1945
+No Country for Old Men,Cormac McCarthy,Classic,4.6,A classic novel with timeless themes.,https://example.com/book174,1996
+Blood Meridian,Cormac McCarthy,Fantasy,4.5,A classic novel with timeless themes.,https://example.com/book175,1974
+The Stand,Stephen King,Classic,4.9,A classic novel with timeless themes.,https://example.com/book176,1908
+It,Stephen King,Dystopian,4.8,A classic novel with timeless themes.,https://example.com/book177,1952
+The Shining,Stephen King,Classic,4.7,A classic novel with timeless themes.,https://example.com/book178,1998
+Misery,Stephen King,Classic,4.6,A classic novel with timeless themes.,https://example.com/book179,1975
+Carrie,Stephen King,Fantasy,4.5,A classic novel with timeless themes.,https://example.com/book180,2002
+The Outsider,Stephen King,Classic,4.9,A classic novel with timeless themes.,https://example.com/book181,1902
+Doctor Sleep,Stephen King,Dystopian,4.8,A classic novel with timeless themes.,https://example.com/book182,2006
+Pet Sematary,Stephen King,Classic,4.7,A classic novel with timeless themes.,https://example.com/book183,1916
+Salem's Lot,Stephen King,Classic,4.6,A classic novel with timeless themes.,https://example.com/book184,1965
+The Institute,Stephen King,Fantasy,4.5,A classic novel with timeless themes.,https://example.com/book185,2012
+11/22/63,Stephen King,Classic,4.9,A classic novel with timeless themes.,https://example.com/book186,1979
+The Secret Garden,Frances Hodgson Burnett,Dystopian,4.8,A classic novel with timeless themes.,https://example.com/book187,1990
+A Little Princess,Frances Hodgson Burnett,Classic,4.7,A classic novel with timeless themes.,https://example.com/book188,1994
+Anne of Green Gables,Lucy Maud Montgomery,Classic,4.6,A classic novel with timeless themes.,https://example.com/book189,1917
+Little Women,Louisa May Alcott,Fantasy,4.5,A classic novel with timeless themes.,https://example.com/book190,1973
+Good Wives,Louisa May Alcott,Classic,4.9,A classic novel with timeless themes.,https://example.com/book191,1923
+Jo's Boys,Louisa May Alcott,Dystopian,4.8,A classic novel with timeless themes.,https://example.com/book192,2022
+Little Men,Louisa May Alcott,Classic,4.7,A classic novel with timeless themes.,https://example.com/book193,2009
+The Adventures of Huckleberry Finn,Mark Twain,Classic,4.6,A classic novel with timeless themes.,https://example.com/book194,1908
+The Adventures of Tom Sawyer,Mark Twain,Fantasy,4.5,A classic novel with timeless themes.,https://example.com/book195,1988
+Treasure Island,Robert Louis Stevenson,Classic,4.9,A classic novel with timeless themes.,https://example.com/book196,1912
+Robinson Crusoe,Daniel Defoe,Dystopian,4.8,A classic novel with timeless themes.,https://example.com/book197,2002
+Gulliver's Travels,Jonathan Swift,Classic,4.7,A classic novel with timeless themes.,https://example.com/book198,1929
+The Three Musketeers,Alexandre Dumas,Classic,4.6,A classic novel with timeless themes.,https://example.com/book199,1941
+Don Quixote,Miguel de Cervantes,Fantasy,4.5,A classic novel with timeless themes.,https://example.com/book200,2012
